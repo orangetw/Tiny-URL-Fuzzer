@@ -13,7 +13,7 @@ Case Study:
 
 # How to use?
 
-All the code are written for hackers. Read the source! Some URL samples you can check [samples.txt](samples.txt)
+All the code are written for hackers, and under PoC. Read the source! Some URL samples you can check [samples.txt](samples.txt)
 
 
 ### Install / Restore
